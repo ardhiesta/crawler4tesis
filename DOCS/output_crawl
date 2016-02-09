@@ -1,0 +1,561 @@
+<a name="UR291832074"></a> 
+<div id="UR291832074" class="extended provider0 review inlineReviewUpdate first"> 
+ <div class="col1of2"> 
+  <div class="member_info"> 
+   <div id="UID_152A5E84A9E1E50FA627C1B61A5D3C4A-SRC_291832074" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);"> 
+    <div class="avatar profile_152A5E84A9E1E50FA627C1B61A5D3C4A "> 
+     <a onclick=""> <img src="http://media-cdn.tripadvisor.com/media/photo-l/06/b8/6c/01/vanessa-m.jpg" class="avatar potentialFacebookAvatar avatarGUID:152A5E84A9E1E50FA627C1B61A5D3C4A" width="74" height="74"> </a> 
+    </div> 
+    <!--We are featuring the reviewer as "a TripAdvisor user" because we don't have the real user's name. This format was requested by marketing as a more helpful message than the anonymous author's name.--> 
+    <div content="a TripAdvisor user" property="author" class="username mo"> 
+     <span class="expand_inline scrname mbrName_152A5E84A9E1E50FA627C1B61A5D3C4A" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">Vanessa M</span> 
+    </div> 
+   </div> 
+   <div class="location">
+     Memphis 
+   </div> 
+  </div> 
+  <div class="memberBadging g10n"> 
+   <div id="UID_152A5E84A9E1E50FA627C1B61A5D3C4A-CONT" class="no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);"> 
+    <div class="reviewerBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_1" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">2 reviews</span> 
+    </div> 
+   </div> 
+   <div id="UID_152A5E84A9E1E50FA627C1B61A5D3C4A-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);"> 
+    <img alt="common_n_hotel_reviews_1bd8" width="20" id="lazyload_-692480677_2" class="icon lazy " height="20" src="http://static.tacdn.com/img2/x.gif"> 
+    <span class="badgeText"> 2 helpful votes </span> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="col2of2"> 
+  <div class="innerBubble"> 
+   <div property="name" class="quote">
+    “Great for family trip”
+   </div> 
+   <div class="rating reviewItemInline"> 
+    <span class="rate sprite-rating_s rating_s" property="reviewRating" typeof="http://schema.org/Rating"> <img class="sprite-rating_s_fill rating_s_fill s40" property="ratingValue" content="4.0" src="http://static.tacdn.com/img2/x.gif" alt="4 of 5 stars"> </span> 
+    <span class="ratingDate" content="2015-07-23" property="datePublished">Reviewed July 23, 2015 </span> 
+    <a class="viaMobile sprite-grayPhone" href="/apps" target="_blank" onclick="ta.util.cookie.setPIDCookie(24687)">via mobile</a> 
+   </div> 
+   <div class="entry"> 
+    <p property="reviewBody" id="review_291832074"> It was easy to get to once we figured out how to get up the mountain. A word of advice get anything you need before you go up. It's not bad to come back down but it wasn't my favorite thing to do especially at night. The rental we had was owned by a private owner. It was nice and everything we needed was provided including towels, soap, dishes, ect. The pool and sauna area closed earlier than we would have liked but we did visit it and the hot tub was great after a day of hiking in the park. Also the location is great close to town and the park and if you were in one of the front condos you would probably have a mountain view. Ours was on the back and we had a view of the woods. There was also an outdoor pool but we did not use it. Our cell phones did not work in the condo (AT&amp;T). You could pay in the office to get landline use but we just waited until we went down to Gatlinburg to make any calls or to use Internet. I know some cell phones must work there, because when we went to the sauna a lady was talking on her phone. It was a great place especially for the price we paid and we would stay there again. </p> 
+   </div> 
+   <div class="media ug_thumb thumbCols1"> 
+    <div class="thumbnails"> 
+     <div class="photosInline"> 
+      <ul> 
+       <li class=" ThumbNailContainer"> <span class="u_/LocationPhotoDirectLink-g60842-d97878-i141569487-r291832074-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#141569487 fkASDF" onclick="ta.trackEventOnPage('Reviews','user_photo','image');ta.util.cookie.setPIDCookie(5042); return ta.call('ta.overlays.Factory.albumsLB', event, this, 97878, 60842, 2, 141569487);"> <img src="http://static.tacdn.com/img2/x.gif" alt="" width="50" id="lazyload_-692480677_3" class="reviewInlineImage" height="50"> </span> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="rating-list"> 
+    <div class="recommend"> 
+     <span class="recommend-titleInline noRatings">Stayed May 2015, traveled with family</span> 
+    </div> 
+   </div> 
+   <div id="helpfulq291832074_expanded" class="helpful"> 
+    <span class="isHelpful">Was this review helpful?</span> 
+    <span class="tgt_helpfulq291832074 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1qgqUqHy3KvdXqHMAkvkvqHEXAUvmXKkdqHrGVQQoqnQQhpaaSIQQoqnQQiTQQoqnQQzzJIcSCHpEyqHzzJIcSCHpEyQQoqnQQrVCCVttVVxiGIac6XoXmqoTpcXAUvmXKkd0tEn1XAUvmXKkd0zH13KvdX0pSM1UoXbozsvdbAzsUzsoKqnb3XkfU73UboxMmfdb0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span> 
+   </div> 
+   <div class="reportProblem"> 
+    <span id="ReportIAP_291832074" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '291832074'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null" onmouseenter="ta.call('ta.overlays.Factory.iapTooltip', event, this); this.onmouseenter=null"> <span class="hidden ulBlueLinks">Problem with this review?</span> <img width="13" alt="" id="lazyload_-692480677_4" height="14" src="http://static.tacdn.com/img2/x.gif"> <span class="reportTxt">Report</span> </span> 
+   </div> 
+   <div class="userLinks"> 
+    <div class="askQuestion"> 
+     <span class="taLnk ulBlueLinks" onclick="ta.trackEventOnPage('answers_review','ask_user_intercept_click' ); return ta.call('ta.overlays.Factory.askReviewerIntercept', event, this, '97878', 'Vanessa M', '152A5E84A9E1E50FA627C1B61A5D3C4A', 'en', '291832074','The Summit of Gatlinburg', 38673);">Ask Vanessa M about The Summit of Gatlinburg</span> 
+    </div> 
+   </div> 
+   <div class="note">
+     This review is the subjective opinion of a TripAdvisor member and not of TripAdvisor LLC. 
+   </div> 
+  </div> 
+ </div> 
+</div>
+
+---------------------------------------------------
+
+<a name="UR286947398"></a> 
+<div id="UR286947398" class="extended provider0 review inlineReviewUpdate"> 
+ <div class="col1of2"> 
+  <div class="member_info"> 
+   <div id="UID_790BED0836F6D654A5A1A0BC679A7311-SRC_286947398" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);"> 
+    <div class="avatar profile_790BED0836F6D654A5A1A0BC679A7311 "> 
+     <a onclick=""> <img src="http://media-cdn.tripadvisor.com/media/photo-l/07/a6/f3/73/tony-w.jpg" class="avatar potentialFacebookAvatar avatarGUID:790BED0836F6D654A5A1A0BC679A7311" width="74" height="74"> </a> 
+    </div> 
+    <div class="username mo"> 
+     <span class="expand_inline scrname mbrName_790BED0836F6D654A5A1A0BC679A7311" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">Tony W</span> 
+    </div> 
+   </div> 
+   <div class="location">
+     Griffin, Georgia 
+   </div> 
+  </div> 
+  <div class="memberBadging g10n"> 
+   <div id="UID_790BED0836F6D654A5A1A0BC679A7311-CONT" class="no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);"> 
+    <div class="levelBadge badge lvl_03">
+      Level 
+     <span><img alt="" width="20" id="lazyload_-692480677_5" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"></span> Contributor 
+    </div> 
+    <div class="reviewerBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_6" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">9 reviews</span> 
+    </div> 
+    <div class="contributionReviewBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_7" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">4 hotel reviews</span> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="col2of2"> 
+  <div class="innerBubble"> 
+   <div class="quote">
+    <a href="/ShowUserReviews-g60842-d97878-r286947398-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#CHECK_RATES_CONT">“<span class="noQuotes">Great Stay</span>”</a>
+   </div> 
+   <div class="rating reviewItemInline"> 
+    <span class="rate sprite-rating_s rating_s"> <img class="sprite-rating_s_fill rating_s_fill s40" src="http://static.tacdn.com/img2/x.gif" alt="4 of 5 stars"> </span> 
+    <span class="ratingDate">Reviewed July 8, 2015 </span> 
+   </div> 
+   <div class="entry"> 
+    <p id="review_286947398"> The accommodations were quite cozy and the view was awesome. The outside pool was small but nice. Two inside hot tubs were very nice. The staff as very friendly. Be prepared for the winding, narrow and very steep mountain roads. We had a great time and look forward to going there again. </p> 
+    <div class="reviewItem inlineRoomTip"> 
+     <b>Room Tip:</b> rooms near the front may have better wifi 
+     <div class="taLnk hvrIE6" onclick="ta.call('ta.overlays.Factory.showRoomTipsOverlay', event, this, 'en');">
+      See more room tips
+     </div> 
+    </div> 
+   </div> 
+   <div class="rating-list"> 
+    <ul class="recommend"> 
+     <li> <span class="recommend-titleInline">Stayed June 2015, traveled with family</span> 
+      <ul class="recommend-column first"> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss40" src="http://static.tacdn.com/img2/x.gif" alt="4 of 5 stars"> </span> Location</li> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss50" src="http://static.tacdn.com/img2/x.gif" alt="5 of 5 stars"> </span> Sleep Quality</li> 
+      </ul> 
+      <ul class="recommend-column"> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss40" src="http://static.tacdn.com/img2/x.gif" alt="4 of 5 stars"> </span> Service</li> 
+      </ul> </li> 
+    </ul> 
+   </div> 
+   <div id="helpfulq286947398_expanded" class="helpful"> 
+    <span class="isHelpful">Was this review helpful?</span> 
+    <span class="tgt_helpfulq286947398 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1qgqUqHy3KvdXqHMAkvkvqHEXAUvmXKkdqHrGVQQoqnQQhpaaSIQQoqnQQiTQQoqnQQzzJIcSCHpEyqHzzJIcSCHpEyQQoqnQQrVCCVttVVxiGIac6XoXmqoTpcXv3AdkmAv0tEn1Xv3AdkmAv0zH13KvdX0pSM1kAK7zsxMKvm3qn3xM3odbobUbK7f3kAbkmUU0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span> 
+   </div> 
+   <div class="reportProblem"> 
+    <span id="ReportIAP_286947398" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '286947398'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null" onmouseenter="ta.call('ta.overlays.Factory.iapTooltip', event, this); this.onmouseenter=null"> <span class="hidden ulBlueLinks">Problem with this review?</span> <img width="13" alt="" id="lazyload_-692480677_8" height="14" src="http://static.tacdn.com/img2/x.gif"> <span class="reportTxt">Report</span> </span> 
+   </div> 
+   <div class="userLinks"> 
+    <div class="askQuestion"> 
+     <span class="taLnk ulBlueLinks" onclick="ta.trackEventOnPage('answers_review','ask_user_intercept_click' ); return ta.call('ta.overlays.Factory.askReviewerIntercept', event, this, '97878', 'Tony W', '790BED0836F6D654A5A1A0BC679A7311', 'en', '286947398','The Summit of Gatlinburg', 38673);">Ask Tony W about The Summit of Gatlinburg</span> 
+    </div> 
+   </div> 
+   <div class="note">
+     This review is the subjective opinion of a TripAdvisor member and not of TripAdvisor LLC. 
+   </div> 
+  </div> 
+ </div> 
+</div>
+
+---------------------------------------------------
+
+<a name="UR284908316"></a> 
+<div id="UR284908316" class="extended provider0 review inlineReviewUpdate"> 
+ <div class="col1of2"> 
+  <div class="member_info"> 
+   <div id="UID_8C9271D05E3AD5ABFAB03AB1459BF871-SRC_284908316" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);"> 
+    <div class="avatar profile_8C9271D05E3AD5ABFAB03AB1459BF871 "> 
+     <a onclick=""> <img src="http://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/82/avatar003.jpg" class="avatar potentialFacebookAvatar avatarGUID:8C9271D05E3AD5ABFAB03AB1459BF871" width="74" height="74"> </a> 
+    </div> 
+    <div class="username mo"> 
+     <span class="expand_inline scrname mbrName_8C9271D05E3AD5ABFAB03AB1459BF871" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">TONY G W</span> 
+    </div> 
+   </div> 
+   <div class="location"> 
+   </div> 
+  </div> 
+  <div class="memberBadging g10n"> 
+   <div id="UID_8C9271D05E3AD5ABFAB03AB1459BF871-CONT" class="no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);"> 
+    <div class="reviewerBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_9" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">2 reviews</span> 
+    </div> 
+   </div> 
+   <div id="UID_8C9271D05E3AD5ABFAB03AB1459BF871-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);"> 
+    <img alt="common_n_hotel_reviews_1bd8" width="20" id="lazyload_-692480677_10" class="icon lazy " height="20" src="http://static.tacdn.com/img2/x.gif"> 
+    <span class="badgeText"> 1 helpful vote </span> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="col2of2"> 
+  <div class="innerBubble"> 
+   <div class="quote">
+    <a href="/ShowUserReviews-g60842-d97878-r284908316-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#CHECK_RATES_CONT">“<span class="noQuotes">Great Stay</span>”</a>
+   </div> 
+   <div class="rating reviewItemInline"> 
+    <span class="rate sprite-rating_s rating_s"> <img class="sprite-rating_s_fill rating_s_fill s50" src="http://static.tacdn.com/img2/x.gif" alt="5 of 5 stars"> </span> 
+    <span class="ratingDate">Reviewed July 2, 2015 </span> 
+   </div> 
+   <div class="entry"> 
+    <p id="review_284908316"> The accommodations were quite cozy and the view was picturesque. The staff was very friendly and this made for a very good family vacation. Be prepare for the winding and sometimes narrow mountain roads. We had a great stay and look forward to going back again. </p> 
+   </div> 
+   <div class="rating-list"> 
+    <div class="recommend"> 
+     <span class="recommend-titleInline noRatings">Stayed July 2015, traveled with family</span> 
+    </div> 
+   </div> 
+   <div id="helpfulq284908316_expanded" class="helpful"> 
+    <span class="isHelpful">Was this review helpful?</span> 
+    <span class="tgt_helpfulq284908316 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1qgqUqHy3KvdXqHMAkvkvqHEXAUvmXKkdqHrGVQQoqnQQhpaaSIQQoqnQQiTQQoqnQQzzJIcSCHpEyqHzzJIcSCHpEyQQoqnQQrVCCVttVVxiGIac6XoXmqoTpcXvdAKvmU30tEn1XvdAKvmU30zH13KvdX0pSM1vfAXkUxMKozsmbxMob7qnb7Kmb7UdoA7qnvkU0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span> 
+   </div> 
+   <div class="reportProblem"> 
+    <span id="ReportIAP_284908316" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '284908316'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null" onmouseenter="ta.call('ta.overlays.Factory.iapTooltip', event, this); this.onmouseenter=null"> <span class="hidden ulBlueLinks">Problem with this review?</span> <img width="13" alt="" id="lazyload_-692480677_11" height="14" src="http://static.tacdn.com/img2/x.gif"> <span class="reportTxt">Report</span> </span> 
+   </div> 
+   <div class="userLinks"> 
+    <div class="askQuestion"> 
+     <span class="taLnk ulBlueLinks" onclick="ta.trackEventOnPage('answers_review','ask_user_intercept_click' ); return ta.call('ta.overlays.Factory.askReviewerIntercept', event, this, '97878', 'TONY G W', '8C9271D05E3AD5ABFAB03AB1459BF871', 'en', '284908316','The Summit of Gatlinburg', 38673);">Ask TONY G W about The Summit of Gatlinburg</span> 
+    </div> 
+   </div> 
+   <div class="note">
+     This review is the subjective opinion of a TripAdvisor member and not of TripAdvisor LLC. 
+   </div> 
+  </div> 
+ </div> 
+</div>
+
+---------------------------------------------------
+
+<a name="UR284505964"></a> 
+<div id="UR284505964" class="extended provider0 review inlineReviewUpdate"> 
+ <div class="col1of2"> 
+  <div class="member_info"> 
+   <div id="UID_DD82D8870738368F8CAA53EFD6174DC3-SRC_284505964" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);"> 
+    <div class="avatar profile_DD82D8870738368F8CAA53EFD6174DC3 "> 
+     <a onclick=""> <img src="http://media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/97/avatar.jpg" class="avatar potentialFacebookAvatar avatarGUID:DD82D8870738368F8CAA53EFD6174DC3" width="74" height="74"> </a> 
+    </div> 
+    <div class="username mo"> 
+     <span class="expand_inline scrname mbrName_DD82D8870738368F8CAA53EFD6174DC3" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">Kenedy O</span> 
+    </div> 
+   </div> 
+   <div class="location">
+     San Francisco, California 
+   </div> 
+  </div> 
+  <div class="memberBadging g10n"> 
+   <div id="UID_DD82D8870738368F8CAA53EFD6174DC3-CONT" class="no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);"> 
+    <div class="reviewerBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_12" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">1 review</span> 
+    </div> 
+   </div> 
+   <div id="UID_DD82D8870738368F8CAA53EFD6174DC3-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);"> 
+    <img alt="common_n_hotel_reviews_1bd8" width="20" id="lazyload_-692480677_13" class="icon lazy " height="20" src="http://static.tacdn.com/img2/x.gif"> 
+    <span class="badgeText"> 1 helpful vote </span> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="col2of2"> 
+  <div class="innerBubble"> 
+   <div class="quote">
+    <a href="/ShowUserReviews-g60842-d97878-r284505964-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#CHECK_RATES_CONT">“<span class="noQuotes">Weekend get away... we wished we could!!</span>”</a>
+   </div> 
+   <div class="rating reviewItemInline"> 
+    <span class="rate sprite-rating_s rating_s"> <img class="sprite-rating_s_fill rating_s_fill s10" src="http://static.tacdn.com/img2/x.gif" alt="1 of 5 stars"> </span> 
+    <span class="ratingDate">Reviewed June 30, 2015 </span> 
+   </div> 
+   <div class="entry"> 
+    <p id="review_284505964"> We went with a group, two families. The family that went with us checked in their 2 bedroom condo that was rented out and it seemed great! It was clean, newly/nicely furnished, enough storage. We then went on to go to our room (originally a loft) We came in to a ordor and terrible furnishings. I preceded to the loft since that was where i would be staying and found crumbs and a ball of human hair and lint in my bed. Pillows were darkly stained and had a texture. I then took off the hairy comforter to find dozens of small black bugs, much of which were dead. I went downstairs after and attempted to sit on the couch that had tons of crumbs (the carpet is heavily stained also, and blue) A family member who was also staying in the room then went to load the fridge and pantry. He went to turn on the faucet and low and behold... A COCKROACH!! It was alive and just stared at him. We had been there for 4 minutes and decided to switch rooms. Now we are staying in a two bedroom (no loft) and it is extremely outdated. They only gave each of us 1 towel for the whole visit. This room is much cleaner and we slept fine last night. This morning we went to legacy mountains ziplines in sevierville and looked at the cabins there after the tour. Beautiful and open and we are definitely staying there next time. If you know your room will be modernly furnished then I recommend this since the accompanying family is having a great time in their room. But be warned, it is hard to tell since every room is decorated differently. You may have a room that hasn't been updated since 1960 (like us) and have your neighbors room be newly updated in 2014, (also like us) Overall, go to legacy mountain. I would not recommend this to anyone! </p> 
+    <div class="reviewItem inlineRoomTip"> 
+     <b>Room Tip:</b> Great views all over 
+     <div class="taLnk hvrIE6" onclick="ta.call('ta.overlays.Factory.showRoomTipsOverlay', event, this, 'en');">
+      See more room tips
+     </div> 
+    </div> 
+   </div> 
+   <div class="rating-list"> 
+    <ul class="recommend"> 
+     <li> <span class="recommend-titleInline">Stayed June 2015, traveled with family</span> 
+      <ul class="recommend-column first"> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss30" src="http://static.tacdn.com/img2/x.gif" alt="3 of 5 stars"> </span> Sleep Quality</li> 
+      </ul> 
+      <ul class="recommend-column"> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss10" src="http://static.tacdn.com/img2/x.gif" alt="1 of 5 stars"> </span> Cleanliness</li> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss20" src="http://static.tacdn.com/img2/x.gif" alt="2 of 5 stars"> </span> Service</li> 
+      </ul> </li> 
+    </ul> 
+   </div> 
+   <div id="helpfulq284505964_expanded" class="helpful"> 
+    <span class="isHelpful">Was this review helpful?</span> 
+    <span class="tgt_helpfulq284505964 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1qgqUqHy3KvdXqHMAkvkvqHEXAUvmXKkdqHrGVQQoqnQQhpaaSIQQoqnQQiTQQoqnQQzzJIcSCHpEyqHzzJIcSCHpEyQQoqnQQrVCCVttVVxiGIac6XoXmqoTpcXvdoKoA3d0tEn1XvdoKoA3d0zH13KvdX0pSM1xMxMvXxMvvkKkmvm3vqnvfbbomzsqnxM3UkdxMfm0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span> 
+    <span class="grayArrowLeft sprite-grayArrowLeft"></span> 
+    <span class="numHlp"><span class="numHlpIn">1</span></span> 
+   </div> 
+   <div class="reportProblem"> 
+    <span id="ReportIAP_284505964" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '284505964'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null" onmouseenter="ta.call('ta.overlays.Factory.iapTooltip', event, this); this.onmouseenter=null"> <span class="hidden ulBlueLinks">Problem with this review?</span> <img width="13" alt="" id="lazyload_-692480677_14" height="14" src="http://static.tacdn.com/img2/x.gif"> <span class="reportTxt">Report</span> </span> 
+   </div> 
+   <div class="userLinks"> 
+    <div class="askQuestion"> 
+     <span class="taLnk ulBlueLinks" onclick="ta.trackEventOnPage('answers_review','ask_user_intercept_click' ); return ta.call('ta.overlays.Factory.askReviewerIntercept', event, this, '97878', 'Kenedy O', 'DD82D8870738368F8CAA53EFD6174DC3', 'en', '284505964','The Summit of Gatlinburg', 38673);">Ask Kenedy O about The Summit of Gatlinburg</span> 
+    </div> 
+   </div> 
+   <div class="note">
+     This review is the subjective opinion of a TripAdvisor member and not of TripAdvisor LLC. 
+   </div> 
+  </div> 
+ </div> 
+</div>
+
+---------------------------------------------------
+
+<a name="UR280659036"></a> 
+<div id="UR280659036" class="extended provider0 review inlineReviewUpdate"> 
+ <div class="col1of2"> 
+  <div class="member_info"> 
+   <div id="UID_4BEB2AC6B9329178C5BA61E38AB46188-SRC_280659036" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);"> 
+    <div class="avatar profile_4BEB2AC6B9329178C5BA61E38AB46188 "> 
+     <a onclick=""> <img src="http://media-cdn.tripadvisor.com/media/photo-l/08/1d/68/6c/terry-w.jpg" class="avatar potentialFacebookAvatar avatarGUID:4BEB2AC6B9329178C5BA61E38AB46188" width="74" height="74"> </a> 
+    </div> 
+    <div class="username mo"> 
+     <span class="expand_inline scrname mbrName_4BEB2AC6B9329178C5BA61E38AB46188" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">Terry W</span> 
+    </div> 
+   </div> 
+   <div class="location"> 
+   </div> 
+  </div> 
+  <div class="memberBadging g10n"> 
+   <div id="UID_4BEB2AC6B9329178C5BA61E38AB46188-CONT" class="no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);"> 
+    <div class="reviewerBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_15" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">1 review</span> 
+    </div> 
+   </div> 
+   <div id="UID_4BEB2AC6B9329178C5BA61E38AB46188-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);"> 
+    <img alt="common_n_hotel_reviews_1bd8" width="20" id="lazyload_-692480677_16" class="icon lazy " height="20" src="http://static.tacdn.com/img2/x.gif"> 
+    <span class="badgeText"> 2 helpful votes </span> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="col2of2"> 
+  <div class="innerBubble"> 
+   <div class="quote">
+    <a href="/ShowUserReviews-g60842-d97878-r280659036-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#CHECK_RATES_CONT">“<span class="noQuotes">Not happy at all</span>”</a>
+   </div> 
+   <div class="rating reviewItemInline"> 
+    <span class="rate sprite-rating_s rating_s"> <img class="sprite-rating_s_fill rating_s_fill s10" src="http://static.tacdn.com/img2/x.gif" alt="1 of 5 stars"> </span> 
+    <span class="ratingDate">Reviewed June 16, 2015 </span> 
+   </div> 
+   <div class="entry"> 
+    <p id="review_280659036"> IF you are looking for a place with good WIFI for the days that you can't get out,this is not the place. The WIFI only worked very sparingly if that. We called the office and they did nothing to fix the problem. </p> 
+   </div> 
+   <div class="rating-list"> 
+    <ul class="recommend"> 
+     <li> <span class="recommend-titleInline">Stayed June 2015, traveled with family</span> 
+      <ul class="recommend-column first"> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss30" src="http://static.tacdn.com/img2/x.gif" alt="3 of 5 stars"> </span> Location</li> 
+      </ul> 
+      <ul class="recommend-column"> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss30" src="http://static.tacdn.com/img2/x.gif" alt="3 of 5 stars"> </span> Cleanliness</li> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss20" src="http://static.tacdn.com/img2/x.gif" alt="2 of 5 stars"> </span> Service</li> 
+      </ul> </li> 
+    </ul> 
+   </div> 
+   <div id="helpfulq280659036_expanded" class="helpful"> 
+    <span class="isHelpful">Was this review helpful?</span> 
+    <span class="tgt_helpfulq280659036 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1qgqUqHy3KvdXqHMAkvkvqHEXAUvmXKkdqHrGVQQoqnQQhpaaSIQQoqnQQiTQQoqnQQzzJIcSCHpEyqHzzJIcSCHpEyQQoqnQQrVCCVttVVxiGIac6XoXmqoTpcXvK3oAKm30tEn1XvK3oAKm30zH13KvdX0pSM1d7zs7Xbf37AmXAUkvfo7b3Uzsmvb7d3Uvv0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span> 
+    <span class="grayArrowLeft sprite-grayArrowLeft"></span> 
+    <span class="numHlp"><span class="numHlpIn">2</span></span> 
+   </div> 
+   <div class="reportProblem"> 
+    <span id="ReportIAP_280659036" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '280659036'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null" onmouseenter="ta.call('ta.overlays.Factory.iapTooltip', event, this); this.onmouseenter=null"> <span class="hidden ulBlueLinks">Problem with this review?</span> <img width="13" alt="" id="lazyload_-692480677_17" height="14" src="http://static.tacdn.com/img2/x.gif"> <span class="reportTxt">Report</span> </span> 
+   </div> 
+   <div class="userLinks"> 
+    <div class="askQuestion"> 
+     <span class="taLnk ulBlueLinks" onclick="ta.trackEventOnPage('answers_review','ask_user_intercept_click' ); return ta.call('ta.overlays.Factory.askReviewerIntercept', event, this, '97878', 'Terry W', '4BEB2AC6B9329178C5BA61E38AB46188', 'en', '280659036','The Summit of Gatlinburg', 38673);">Ask Terry W about The Summit of Gatlinburg</span> 
+    </div> 
+   </div> 
+   <div class="note">
+     This review is the subjective opinion of a TripAdvisor member and not of TripAdvisor LLC. 
+   </div> 
+  </div> 
+ </div> 
+</div>
+<a name="UR275081844"></a> 
+<div id="UR275081844" class="extended provider0 review inlineReviewUpdate"> 
+ <div class="col1of2"> 
+  <div class="member_info"> 
+   <div id="UID_8888F2EE4F342A98F568C7B241FC03AA-SRC_275081844" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);"> 
+    <div class="avatar profile_8888F2EE4F342A98F568C7B241FC03AA "> 
+     <a onclick=""> <img src="http://media-cdn.tripadvisor.com/media/photo-l/01/e6/e9/f0/a-stravelers.jpg" class="avatar potentialFacebookAvatar avatarGUID:8888F2EE4F342A98F568C7B241FC03AA" width="74" height="74"> </a> 
+    </div> 
+    <div class="username mo"> 
+     <span class="expand_inline scrname mbrName_8888F2EE4F342A98F568C7B241FC03AA" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">explorepossibilities</span> 
+    </div> 
+   </div> 
+   <div class="location">
+     Cincinnati, Ohio 
+   </div> 
+  </div> 
+  <div class="memberBadging g10n"> 
+   <div id="UID_8888F2EE4F342A98F568C7B241FC03AA-CONT" class="no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);"> 
+    <div class="levelBadge badge lvl_06">
+      Level 
+     <span><img alt="" width="20" id="lazyload_-692480677_18" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"></span> Contributor 
+    </div> 
+    <div class="reviewerBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_19" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">164 reviews</span> 
+    </div> 
+    <div class="contributionReviewBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_20" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">66 hotel reviews</span> 
+    </div> 
+   </div> 
+   <div id="UID_8888F2EE4F342A98F568C7B241FC03AA-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);"> 
+    <img alt="common_n_hotel_reviews_1bd8" width="20" id="lazyload_-692480677_21" class="icon lazy " height="20" src="http://static.tacdn.com/img2/x.gif"> 
+    <span class="badgeText"> 123 helpful votes </span> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="col2of2"> 
+  <div class="innerBubble"> 
+   <div class="quote">
+    <a href="/ShowUserReviews-g60842-d97878-r275081844-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#CHECK_RATES_CONT">“<span class="noQuotes">New View</span>”</a>
+   </div> 
+   <div class="rating reviewItemInline"> 
+    <span class="rate sprite-rating_s rating_s"> <img class="sprite-rating_s_fill rating_s_fill s50" src="http://static.tacdn.com/img2/x.gif" alt="5 of 5 stars"> </span> 
+    <span class="ratingDate">Reviewed May 27, 2015 </span> 
+   </div> 
+   <div class="entry"> 
+    <p id="review_275081844"> This was my lucky third visit and I checked in to a new (arguably improved) view Mt. LeConte side - wow. The second floor unit this time was a smaller, studio, and it was still sufficient for 3 adults offering a wonderful window bed (a little short for some of you longer folks) and an uncomfortable pull out sofa. Love the balconies and having a full kitchen really helps the wallet and misc. food requirements. Outdoor pool, indoor pool &amp; hot tub &amp; free firewood. Super friendly staff. I cannot wait to return! </p> 
+   </div> 
+   <div class="rating-list"> 
+    <ul class="recommend"> 
+     <li> <span class="recommend-titleInline">Stayed August 2014, traveled with friends</span> 
+      <ul class="recommend-column first"> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss50" src="http://static.tacdn.com/img2/x.gif" alt="5 of 5 stars"> </span> Location</li> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss40" src="http://static.tacdn.com/img2/x.gif" alt="4 of 5 stars"> </span> Sleep Quality</li> 
+      </ul> 
+      <ul class="recommend-column"> 
+       <li class="recommend-answer"> <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss40" src="http://static.tacdn.com/img2/x.gif" alt="4 of 5 stars"> </span> Service</li> 
+      </ul> </li> 
+    </ul> 
+   </div> 
+   <div id="helpfulq275081844_expanded" class="helpful"> 
+    <span class="isHelpful">Was this review helpful?</span> 
+    <span class="tgt_helpfulq275081844 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1qgqUqHy3KvdXqHMAkvkvqHEXAUvmXKkdqHrGVQQoqnQQhpaaSIQQoqnQQiTQQoqnQQzzJIcSCHpEyqHzzJIcSCHpEyQQoqnQQrVCCVttVVxiGIac6XoXmqoTpcXkoKvUvdd0tEn1XkoKvUvdd0zH13KvdX0pSM1vvvvqnXzszsdqnmdXbAvqno3vfk7XdUqnfKmbb0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span> 
+   </div> 
+   <div class="reportProblem"> 
+    <span id="ReportIAP_275081844" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '275081844'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null" onmouseenter="ta.call('ta.overlays.Factory.iapTooltip', event, this); this.onmouseenter=null"> <span class="hidden ulBlueLinks">Problem with this review?</span> <img width="13" alt="" id="lazyload_-692480677_22" height="14" src="http://static.tacdn.com/img2/x.gif"> <span class="reportTxt">Report</span> </span> 
+   </div> 
+   <div class="userLinks"> 
+    <div class="askQuestion"> 
+     <span class="taLnk ulBlueLinks" onclick="ta.trackEventOnPage('answers_review','ask_user_intercept_click' ); return ta.call('ta.overlays.Factory.askReviewerIntercept', event, this, '97878', 'explorepossibilities', '8888F2EE4F342A98F568C7B241FC03AA', 'en', '275081844','The Summit of Gatlinburg', 38673);">Ask explorepossibilities about The Summit of Gatlinburg</span> 
+    </div> 
+   </div> 
+   <div class="note">
+     This review is the subjective opinion of a TripAdvisor member and not of TripAdvisor LLC. 
+   </div> 
+   <div class="duplicateReviewsInline"> 
+    <div class="previous">
+     explorepossibilities has 1 more review of The Summit of Gatlinburg
+    </div> 
+    <ul class="dupReviews"> 
+     <li class="dupReviewItem"> 
+      <div class="reviewTitle"> 
+       <a href="/ShowUserReviews-g60842-d97878-r6130979-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#REVIEWS">“What a Place!”</a> 
+      </div> 
+      <div class="rating"> 
+       <span class="rate sprite-rating_ss rating_ss"> <img class="sprite-rating_ss_fill rating_ss_fill ss50" src="http://static.tacdn.com/img2/x.gif" alt="5 of 5 stars"> </span> 
+       <span class="date">Reviewed November 14, 2006</span> 
+      </div> </li> 
+    </ul> 
+   </div> 
+  </div> 
+ </div> 
+</div>
+<a name="UR274297180"></a> 
+<div id="UR274297180" class="extended provider0 review inlineReviewUpdate"> 
+ <div class="col1of2"> 
+  <div class="member_info"> 
+   <div id="UID_5AFA5260498973DE0853BDF039C1021F-SRC_274297180" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);"> 
+    <div class="avatar profile_5AFA5260498973DE0853BDF039C1021F "> 
+     <a onclick=""> <img src="http://media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/98/avatar.jpg" class="avatar potentialFacebookAvatar avatarGUID:5AFA5260498973DE0853BDF039C1021F" width="74" height="74"> </a> 
+    </div> 
+    <div class="username mo"> 
+     <span class="expand_inline scrname mbrName_5AFA5260498973DE0853BDF039C1021F" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">cabinluv</span> 
+    </div> 
+   </div> 
+   <div class="location"> 
+   </div> 
+  </div> 
+  <div class="memberBadging g10n"> 
+   <div id="UID_5AFA5260498973DE0853BDF039C1021F-CONT" class="no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);"> 
+    <div class="levelBadge badge lvl_03">
+      Level 
+     <span><img alt="" width="20" id="lazyload_-692480677_23" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"></span> Contributor 
+    </div> 
+    <div class="reviewerBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_24" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">18 reviews</span> 
+    </div> 
+    <div class="contributionReviewBadge badge"> 
+     <img alt="" width="20" id="lazyload_-692480677_25" class="icon lazy" height="20" src="http://static.tacdn.com/img2/x.gif"> 
+     <span class="badgeText">4 hotel reviews</span> 
+    </div> 
+   </div> 
+   <div id="UID_5AFA5260498973DE0853BDF039C1021F-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);"> 
+    <img alt="common_n_hotel_reviews_1bd8" width="20" id="lazyload_-692480677_26" class="icon lazy " height="20" src="http://static.tacdn.com/img2/x.gif"> 
+    <span class="badgeText"> 21 helpful votes </span> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="col2of2"> 
+  <div class="innerBubble"> 
+   <div class="quote">
+    <a href="/ShowUserReviews-g60842-d97878-r274297180-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#CHECK_RATES_CONT">“<span class="noQuotes">Got married</span>”</a>
+   </div> 
+   <div class="rating reviewItemInline"> 
+    <span class="rate sprite-rating_s rating_s"> <img class="sprite-rating_s_fill rating_s_fill s30" src="http://static.tacdn.com/img2/x.gif" alt="3 of 5 stars"> </span> 
+    <span class="ratingDate">Reviewed May 24, 2015 </span> 
+   </div> 
+   <div class="entry"> 
+    <p id="review_274297180"> The Summit was very clean . Great value we stayed in 1308 . We all loved the condo the outdoor pool was nice and clean indoor pool was very nice. <br>My only complaint would be the drive up to the condo. It's an easy drive just to far out of town . Make sure you come prepared not convenient to run to town.<br>Beautiful view from the condo and people were very nice . We will be back . </p> 
+   </div> 
+   <div class="media ug_thumb thumbCols2"> 
+    <div class="thumbnails"> 
+     <div class="photosInline"> 
+      <ul> 
+       <li class=" ThumbNailContainer"> <span class="u_/LocationPhotoDirectLink-g60842-d97878-i133543544-r274297180-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#133543544 fkASDF" onclick="ta.trackEventOnPage('Reviews','user_photo','image');ta.util.cookie.setPIDCookie(5042); return ta.call('ta.overlays.Factory.albumsLB', event, this, 97878, 60842, 2, 133543544);"> <img src="http://static.tacdn.com/img2/x.gif" alt="" width="50" id="lazyload_-692480677_27" class="reviewInlineImage" height="50"> </span> </li> 
+       <li class=" ThumbNailContainer"> <span class="u_/LocationPhotoDirectLink-g60842-d97878-i133543164-r274297180-The_Summit_of_Gatlinburg-Gatlinburg_Tennessee.html#133543164 fkASDF" onclick="ta.trackEventOnPage('Reviews','user_photo','image');ta.util.cookie.setPIDCookie(5042); return ta.call('ta.overlays.Factory.albumsLB', event, this, 97878, 60842, 2, 133543164);"> <img src="http://static.tacdn.com/img2/x.gif" alt="" width="50" id="lazyload_-692480677_28" class="reviewInlineImage" height="50"> </span> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="rating-list"> 
+    <div class="recommend"> 
+     <span class="recommend-titleInline noRatings">Stayed May 2015, traveled with family</span> 
+    </div> 
+   </div> 
+   <div id="helpfulq274297180_expanded" class="helpful"> 
+    <span class="isHelpful">Was this review helpful?</span> 
+    <span class="tgt_helpfulq274297180 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1qgqUqHy3KvdXqHMAkvkvqHEXAUvmXKkdqHrGVQQoqnQQhpaaSIQQoqnQQiTQQoqnQQzzJIcSCHpEyqHzzJIcSCHpEyQQoqnQQrVCCVttVVxiGIac6XoXmqoTpcXkdXAkUvK0tEn1XkdXAkUvK0zH13KvdX0pSM1obqnboX3KdAvAkmxMzsKvom7xMqnKmAfUKXUqn0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span> 
+    <span class="grayArrowLeft sprite-grayArrowLeft"></span> 
+    <span class="numHlp"><span class="numHlpIn">1</span></span> 
+   </div> 
+   <div class="reportProblem"> 
+    <span id="ReportIAP_274297180" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '274297180'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null" onmouseenter="ta.call('ta.overlays.Factory.iapTooltip', event, this); this.onmouseenter=null"> <span class="hidden ulBlueLinks">Problem with this review?</span> <img width="13" alt="" id="lazyload_-692480677_29" height="14" src="http://static.tacdn.com/img2/x.gif"> <span class="reportTxt">Report</span> </span> 
+   </div> 
+   <div class="userLinks"> 
+    <div class="askQuestion"> 
+     <span class="taLnk ulBlueLinks" onclick="ta.trackEventOnPage('answers_review','ask_user_intercept_click' ); return ta.call('ta.overlays.Factory.askReviewerIntercept', event, this, '97878', 'cabinluv', '5AFA5260498973DE0853BDF039C1021F', 'en', '274297180','The Summit of Gatlinburg', 38673);">Ask cabinluv about The Summit of Gatlinburg</span> 
+    </div> 
+   </div> 
+   <div class="note">
+     This review is the subjective opinion of a TripAdvisor member and not of TripAdvisor LLC. 
+   </div> 
+  </div> 
+ </div> 
+</div>
+
+test
